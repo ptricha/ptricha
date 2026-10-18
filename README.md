@@ -8,7 +8,7 @@ I'm a Computer Engineering student specializing in Data Science & AI, building i
 About Me
 --------
 
-- **Location:** Seville / Algeciras, Spain
+- **Location:** Algeciras, Spain
 - **Email:** ptriguero.dev@gmail.com
 - **Languages:** Spanish (native) and English (professional working proficiency)
 
